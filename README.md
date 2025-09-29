@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @diari17
 
-- 👩‍💻 I’m a tech enthusiast passionate about web development and software engineering.
+- 👩‍💻 I’m a tech enthusiast passionate about data, web development and software engineering.
 - 🌱 I’m currently learning and improving my skills in:
   - 💻 Programming Languages: Java, PHP, C, Python, JavaScript
   - 🌐 Web: HTML, CSS, React, Node.js
