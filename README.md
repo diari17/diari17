@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning and improving my skills in:
   - 💻 Programming Languages: Java, PHP, C, Python, JavaScript
   - 🌐 Web: HTML, CSS, React, Node.js
-  - 📊 Data: DAX (Power BI)...
+  - 📊 Data: DAX (Power BI), SQL...
 - 👀 I’m interested in:
   - Building efficient and user-friendly web platforms
   - Working projects
