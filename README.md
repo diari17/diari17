@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning and improving my skills in:
   - 💻 Programming Languages: Java, PHP, C, Python, JavaScript
   - 🌐 Web: HTML, CSS, React, Node.js
-  - 📊 Data: DAX (Power BI), SQL...
+  - 📊 Data: DAX (Power BI), SQL, NoSql...
 - 👀 I’m interested in:
   - Building efficient and user-friendly web platforms
   - Working projects
@@ -17,4 +17,4 @@
   - Email: diariatou1705@gmail.com
   - LinkedIn: www.linkedin.com/in/mame-dieng-a40a97347
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I love turning complex problems into simple solutions — and I’m always up for a challenge!
+- ⚡ Fun fact: I love turning complex problems into simple solutions - and I’m always up for a challenge!
